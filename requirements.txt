@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+xgboost
+seaborn
+matplotlib
+category_encoders
+mapie
+joblib
